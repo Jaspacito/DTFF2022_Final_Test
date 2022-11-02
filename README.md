@@ -21,12 +21,17 @@ Deadline: *2022-12-19*
 12-12 ~ 12-18: 
 
 ## Data
-Inflation Rate: monthly year-on-year CPI data with the logarithm form released by the National Bureau of Statistics, sample period: 01.2010 - 03.2014.
-Expected Inflation rate: proxied by the one period lagged one-year national bond’s yield to maturity, obtained from the China Government Securities Depository Trust &Clearing Co. Ltd., sample period: 01.2010 - 03.2014.
-Commodity Futures： sixteen kinds of future contracts from the Shanghai, Dalian, Zhengzhou futures exchange:  Soybeans No. 1, soybeans No. 2, yellow corn, LLDPE, soybean meal, palm oil, soybean oil, PVC, cathode copper, aluminum, zinc, gold, natural rubber, fuel oil, rebar, wire rod. Use the settlement price namely the market volume weighted strike price of the contract to calculate their return. Considering that the CPI is monthly data, to match the data frequency, we selected the settlement price at the end of each month to calculate the one-year holding period returns. In addition, due to commodity futures can be short, they have more advantages over stocks. Sample period: 01.2010 - 03.2014.
-Real estate returns are calculated based on the housing price index in the first-tier cities, second-tier cities and third-tier cities, which are released by the China Index Academy. Sample period: 06.2011 - 03.2014.
-The gold return is obtained from the closing price of spot gold from Shanghai Gold Exchange, sample period: 01.2010 - 03.2014.
-Industry Stocks: the closing price of Hushen 300 industry Index at the end of each month to calculate the one-year holding period yield, the included industries are energy, raw materials, industry, optional consumption, the main consumption, medicine and health care, finance and real estate, information technology, the utility and the telecommunication service, sample period: 01.2010 - 03.2014.
+1. Inflation Rate: monthly year-on-year CPI data with the logarithm form released by the National Bureau of Statistics, sample period: 01.2010 - 03.2014.
+
+2. Expected Inflation rate: proxied by the one period lagged one-year national bond’s yield to maturity, obtained from the China Government Securities Depository Trust &Clearing Co. Ltd., sample period: 01.2010 - 03.2014.
+
+3. Commodity Futures： sixteen kinds of future contracts from the Shanghai, Dalian, Zhengzhou futures exchange:  Soybeans No. 1, soybeans No. 2, yellow corn, LLDPE, soybean meal, palm oil, soybean oil, PVC, cathode copper, aluminum, zinc, gold, natural rubber, fuel oil, rebar, wire rod. Use the settlement price namely the market volume weighted strike price of the contract to calculate their return. Considering that the CPI is monthly data, to match the data frequency, we selected the settlement price at the end of each month to calculate the one-year holding period returns. In addition, due to commodity futures can be short, they have more advantages over stocks. Sample period: 01.2010 - 03.2014.
+
+4. Real estate returns are calculated based on the housing price index in the first-tier cities, second-tier cities and third-tier cities, which are released by the China Index Academy. Sample period: 06.2011 - 03.2014.
+
+6. The gold return is obtained from the closing price of spot gold from Shanghai Gold Exchange, sample period: 01.2010 - 03.2014.
+
+7. Industry Stocks: the closing price of Hushen 300 industry Index at the end of each month to calculate the one-year holding period yield, the included industries are energy, raw materials, industry, optional consumption, the main consumption, medicine and health care, finance and real estate, information technology, the utility and the telecommunication service, sample period: 01.2010 - 03.2014.
 
 
 
