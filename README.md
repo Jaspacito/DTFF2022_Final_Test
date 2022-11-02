@@ -2,9 +2,23 @@
 
 
 
-## Deadline 
+## Deadline and Timetable 
 
-*2022-12-19* 
+Deadline: *2022-12-19* 
+
+10-31 ~ 11-06: 
+
+11-07 ~ 11-13: 
+
+11-14 ~ 11-20: 
+
+11-21 ~ 11-27: 
+
+11-28 ~ 12-04: 
+
+12-05 ~ 12-11: 
+
+12-12 ~ 12-18: 
 
 
 
@@ -12,7 +26,7 @@
 
 1. Single repository on GitHub, all group members as controbutor 
 
-- check contributors 
+- check contributors，repo finished 
 
 2. Neatly and concisely structure 
 
@@ -24,7 +38,7 @@
 
 4. Create well-documented database, with update methods
 
-- use Docker to manage database would have extra bonus 
+- use Docker tocreate and manage database would have extra bonus 
 
 5. Design figures and tables, with visualization standards discussed in class
 
@@ -66,9 +80,5 @@ Please submit a little research project adhering to the following requirements:
 - in the ideal case, anyone who could pass this course should be able to see and reproduce your findings from scratch.
 
 You can pick a topic from the [list of suggested topics](./research-topics.md), but own topics are strongly encouraged! You can also choose to replicate a result from a paper (which does not have an open-source implementation yet).
-
-
-
-
 
 
