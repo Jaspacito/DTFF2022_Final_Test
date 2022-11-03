@@ -23,15 +23,17 @@ Deadline: *2022-12-19*
 ## Data
 1. Inflation Rate: monthly year-on-year CPI data with the logarithm form released by the National Bureau of Statistics, sample period: 01.2010 - 03.2014.
 
-https://data.stats.gov.cn/easyquery.htm?cn=A01&zb=A010201&sj=202210
+   https://data.stats.gov.cn/easyquery.htm?cn=A01&zb=A010201&sj=202210
 
 2. Expected Inflation rate: proxied by the one period lagged one-year national bond’s yield to maturity, obtained from the China Government Securities Depository Trust &Clearing Co. Ltd., sample period: 01.2010 - 03.2014.
 
+   https://www.cbirc.gov.cn/cn/view/pages/index/guozhai.html
+
 3. Commodity Futures： sixteen kinds of future contracts from the Shanghai, Dalian, Zhengzhou futures exchange:  Soybeans No. 1, soybeans No. 2, yellow corn, LLDPE, soybean meal, palm oil, soybean oil, PVC, cathode copper, aluminum, zinc, gold, natural rubber, fuel oil, rebar, wire rod. Use the settlement price namely the market volume weighted strike price of the contract to calculate their return. Considering that the CPI is monthly data, to match the data frequency, we selected the settlement price at the end of each month to calculate the one-year holding period returns. In addition, due to commodity futures can be short, they have more advantages over stocks. Sample period: 01.2010 - 03.2014.
 
-https://www.shfe.com.cn/statements/dataview.html?paramid=delaymarket_bc
+   https://www.shfe.com.cn/statements/dataview.html?paramid=delaymarket_bc
 
-http://www.dce.com.cn/dalianshangpin/xqsj/tjsj26/rtj/yxq/index.html
+   http://www.dce.com.cn/dalianshangpin/xqsj/tjsj26/rtj/yxq/index.html
 
 4. Real estate returns are calculated based on the housing price index in the first-tier cities, second-tier cities and third-tier cities, which are released by the China Index Academy. Sample period: 06.2011 - 03.2014.
 
