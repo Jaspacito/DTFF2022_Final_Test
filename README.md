@@ -22,6 +22,7 @@ Deadline: *2022-12-19*
 
 ## Data
 1. Inflation Rate: monthly year-on-year CPI data with the logarithm form released by the National Bureau of Statistics, sample period: 01.2010 - 03.2014.
+https://data.stats.gov.cn/easyquery.htm?cn=A01&zb=A010201&sj=202210
 
 2. Expected Inflation rate: proxied by the one period lagged one-year national bond’s yield to maturity, obtained from the China Government Securities Depository Trust &Clearing Co. Ltd., sample period: 01.2010 - 03.2014.
 
