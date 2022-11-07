@@ -6,19 +6,20 @@
 
 Deadline: *2022-12-19* 
 
-10-31 ~ 11-06: 
+10-31 ~ 11-09: 
+collect all the deta needed 
 
-11-07 ~ 11-13: 
+11-10 ~ 11-16: 
 
-11-14 ~ 11-20: 
+11-17 ~ 11-23: 
 
-11-21 ~ 11-27: 
+11-24 ~ 11-30: 
 
-11-28 ~ 12-04: 
+12-01 ~ 12-07: 
 
-12-05 ~ 12-11: 
+12-08 ~ 12-14: 
 
-12-12 ~ 12-18: 
+12-15 ~ 12-18: 
 
 ## Data
 1. Inflation Rate: monthly year-on-year CPI data with the logarithm form released by the National Bureau of Statistics, sample period: 01.2010 - 03.2014.
@@ -64,7 +65,7 @@ Deadline: *2022-12-19*
 
 5. Design figures and tables, with visualization standards discussed in class
 
-- class to be taken 
+- font size, color (avoid red for color blindnedd friendly, use same clolr for same item among figures, etc.), table format (align, etc.), etc. 
 
 6. Short paper using LaTeX or Jupyter/Shiny, populating it with sections, a table of contents, and the above tables and figures 
 
