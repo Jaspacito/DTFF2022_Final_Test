@@ -7,7 +7,8 @@
 Deadline: *2022-12-19* 
 
 10-31 ~ 11-09: 
-collect all the deta needed 
+
+ - collect all the deta needed 
 
 11-10 ~ 11-16: 
 
