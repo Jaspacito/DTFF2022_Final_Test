@@ -12,7 +12,7 @@ Deadline: *2022-12-19*
 
 11-10 ~ 11-16: 
 
- - upload data files to data/ folder 
+ - upload data files to ./data folder 
  
  - read the literature, be familiar with the model used in literature, and be confirm the methodology of data precessing 
 
