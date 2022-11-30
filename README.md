@@ -13,7 +13,6 @@ Deadline: *2022-12-19*
 11-10 ~ 11-16: 
 
  - upload data files to ./data folder 
- 
  - read the literature, be familiar with the model used in literature, and confirm the methodology of data precessing 
 
 11-17 ~ 11-23: 
@@ -25,6 +24,12 @@ Deadline: *2022-12-19*
  - None 
 
 12-01 ~ 12-07: 
+
+ - Database：construct database by cuckiecutter，import data to database，update data 
+ - Section 2.2 Data: compute monthly year-on-year log return 
+ - Section 2.3.1 Stationary Test 
+ - Section 2.3.2 ~ 2.3.4 Hedging Effect Test 
+ - Section 3 Porfolio Construction 
 
 12-08 ~ 12-14: 
 
@@ -112,5 +117,17 @@ Please submit a little research project adhering to the following requirements:
 - in the ideal case, anyone who could pass this course should be able to see and reproduce your findings from scratch.
 
 You can pick a topic from the [list of suggested topics](./research-topics.md), but own topics are strongly encouraged! You can also choose to replicate a result from a paper (which does not have an open-source implementation yet).
+
+
+From Slack: 
+some of you are asking about grading criteria; here is a guideline (somewhat overlapping with what is stated in the .README file) of what your project must have:
+- a tidy folder and file structure;
+- a repository on github with a history of commits by all group members; except for the fact that it contains branch 'homework' (or similar), the repository is all about your project, so please treat it as you would an actual research project of yours;
+- an informative README file briefly explaining the main finding, and indicating any information needed to reproduce the findings:
+- environment that can be cloned (using an environment manager such as conda, poetry or the like, or docker);
+- a well maintained data management routine: the data itself is well described, and a database is organized, with upstream and ownstream functions implemented;
+- a short .pdf with the findings, compiled from latex code, with figures and/or tables designed along the standards described in the lecture on visualization; the source code is uploaded;
+- a .pdf with the presentation that you could use in a conference, compiled from latex code; the source code is uploaded;
+- one app for the user to scrutinize the findings.
 
 
