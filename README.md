@@ -53,6 +53,26 @@ Deadline: *2022-12-19*
    https://www.shfe.com.cn/statements/dataview.html?paramid=delaymarket_bc
 
    http://www.dce.com.cn/dalianshangpin/xqsj/tjsj26/rtj/yxq/index.html
+   
+   **date check** 
+   
+               name   min_date   max_date
+1        Aluminum 2011-01-01 2015-12-01  ***2009-12 数据缺失*** 
+2  Cathode_Copper 2011-01-01 2015-12-01  ***2009-12 数据缺失*** 
+3        Fuel_Oil 2011-03-01 2015-12-01  ***2009-12 ~ 2011-02 数据缺失*** 
+4            Gold 2011-01-01 2015-10-01  ***2009-12 数据缺失*** 
+5           LLDPE 2011-01-01 2015-12-01  ***2009-12 数据缺失*** 
+6  Natural_Rubber 2011-01-01 2015-11-01  ***2009-12 数据缺失*** 
+7        Palm_Oil 2011-01-01 2015-12-01  ***2009-12 数据缺失*** 
+8             PVC 2011-01-01 2015-12-01  ***2009-12 数据缺失*** 
+9           Rebar 2011-01-01 2015-12-01  ***2009-12 数据缺失*** 
+10   Soybean_Meal 2011-01-01 2015-12-01  ***2009-12 数据缺失*** 
+11    Soybean_Oil 2011-01-01 2015-12-01  ***2009-12 数据缺失*** 
+12  Soybeans_No_1 2011-01-01 2016-05-01  ***2009-12 数据缺失*** 
+13  Soybeans_No_2 2011-01-01 2015-11-01  ***2009-12 数据缺失*** 
+14       Wire_Rod 2011-02-01 2015-12-01  ***2009-12 ~ 2011-01 数据缺失*** 
+15    Yellow_Corn 2011-01-01 2015-11-01  ***2009-12 数据缺失*** 
+16           Zinc 2011-01-01 2015-12-01  ***2009-12 数据缺失*** 
 
 4. Real estate returns are calculated based on the housing price index in the first-tier cities, second-tier cities and third-tier cities, which are released by the China Index Academy. Sample period: 06.2011 - 03.2014.
 
