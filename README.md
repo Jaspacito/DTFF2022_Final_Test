@@ -48,7 +48,7 @@ Deadline: *2022-12-19*
    
    ***2009-12 数据缺失*** 
 
-3. Commodity Futures： sixteen kinds of future contracts from the Shanghai, Dalian, Zhengzhou futures exchange:  Soybeans No. 1（豆1）, soybeans No. 2（豆2）, yellow corn（玉米）, LLDPE（聚乙烯）, soybean meal（豆粕）, palm oil（棕榈油）, soybean oil（豆油）, PVC（聚氯乙烯）, cathode copper（铜）, aluminum（铝）, zinc（锌）, gold（黄金）, natural rubber（天然橡胶）, fuel oil（燃料油）, rebar（螺纹钢）, wire rod（线材）. Use the settlement price namely the market volume weighted strike price of the contract to calculate their return. Considering that the CPI is monthly data, to match the data frequency, we selected the settlement price at the end of each month to calculate the one-year holding period returns. In addition, due to commodity futures can be short, they have more advantages over stocks. Sample period: 01.2010 - 03.2014.
+3. Commodity Futures： sixteen kinds of future contracts from the Shanghai, Dalian, Zhengzhou futures exchange:  Soybeans No. 1（豆一）, soybeans No. 2（豆二）, yellow corn（玉米）, LLDPE（聚乙烯）, soybean meal（豆粕）, palm oil（棕榈油）, soybean oil（豆油）, PVC（聚氯乙烯）, cathode copper（铜）, aluminum（铝）, zinc（锌）, gold（黄金）, natural rubber（天然橡胶）, fuel oil（燃料油）, rebar（螺纹钢）, wire rod（线材）. Use the settlement price namely the market volume weighted strike price of the contract to calculate their return. Considering that the CPI is monthly data, to match the data frequency, we selected the settlement price at the end of each month to calculate the one-year holding period returns. In addition, due to commodity futures can be short, they have more advantages over stocks. Sample period: 01.2010 - 03.2014.
 
    https://www.shfe.com.cn/statements/dataview.html?paramid=delaymarket_bc
 
