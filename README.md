@@ -157,8 +157,10 @@ Please submit a little research project adhering to the following requirements:
 You can pick a topic from the [list of suggested topics](./research-topics.md), but own topics are strongly encouraged! You can also choose to replicate a result from a paper (which does not have an open-source implementation yet).
 
 
-From Slack: 
+**From Slack** 
+
 some of you are asking about grading criteria; here is a guideline (somewhat overlapping with what is stated in the .README file) of what your project must have:
+
 - a tidy folder and file structure;
 - a repository on github with a history of commits by all group members; except for the fact that it contains branch 'homework' (or similar), the repository is all about your project, so please treat it as you would an actual research project of yours;
 - an informative README file briefly explaining the main finding, and indicating any information needed to reproduce the findings:
