@@ -111,7 +111,7 @@ Deadline: *2022-12-19*
 
 - use test repo first, officially commit maybe once a week 
 
-4. Create well-documented database, with update methods
+4. Create well-documented database, with update methods. (a well maintained data management routine: the data itself is well described, and a database is organized, with upstream and ownstream functions implemented) 
 
 - use Docker tocreate and manage database would have extra bonus 
 
@@ -129,9 +129,9 @@ Deadline: *2022-12-19*
 
 8. One interactive app (Shiny or Jupyter notebook) describing the main finding and presenting several robustness checks
 
-- class to be taken 
+- to be determined 
 
-9. Results are reproducible by ensuring that the coding environment is exported and concise documentation is present
+9. Results are reproducible by ensuring that the coding environment is exported and concise documentation is present. (environment that can be cloned, using an environment manager such as conda, poetry or the like, or docker) 
 
 - to be determined 
 
