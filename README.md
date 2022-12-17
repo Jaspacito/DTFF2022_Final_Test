@@ -35,58 +35,24 @@ Deadline: *2022-12-19*
 
 12-15 ~ 12-18: 
 
+
 ## Data
+
+### Data Source 
+
 1. Inflation Rate: monthly year-on-year CPI data with the logarithm form released by the National Bureau of Statistics, sample period: 01.2010 - 03.2014.
 
    https://data.stats.gov.cn/easyquery.htm?cn=A01&zb=A010201&sj=202210 
-   
-   ***2009-12 ~ 2010-12 数据缺失*** 
 
 2. Expected Inflation rate: proxied by the one period lagged one-year national bond’s yield to maturity, obtained from the China Government Securities Depository Trust &Clearing Co. Ltd., sample period: 01.2010 - 03.2014.
 
    https://www.cbirc.gov.cn/cn/view/pages/index/guozhai.html
-   
-   ***2009-12 数据缺失*** 
 
 3. Commodity Futures： sixteen kinds of future contracts from the Shanghai, Dalian, Zhengzhou futures exchange:  Soybeans No. 1（豆一）, soybeans No. 2（豆二）, yellow corn（玉米）, LLDPE（聚乙烯）, soybean meal（豆粕）, palm oil（棕榈油）, soybean oil（豆油）, PVC（聚氯乙烯）, cathode copper（铜）, aluminum（铝）, zinc（锌）, gold（黄金）, natural rubber（天然橡胶）, fuel oil（燃料油）, rebar（螺纹钢）, wire rod（线材）. Use the settlement price namely the market volume weighted strike price of the contract to calculate their return. Considering that the CPI is monthly data, to match the data frequency, we selected the settlement price at the end of each month to calculate the one-year holding period returns. In addition, due to commodity futures can be short, they have more advantages over stocks. Sample period: 01.2010 - 03.2014.
 
    https://www.shfe.com.cn/statements/dataview.html?paramid=delaymarket_bc
 
    http://www.dce.com.cn/dalianshangpin/xqsj/tjsj26/rtj/yxq/index.html
-   
-   **date check** 
-   
-   Aluminum  ***2009-12 数据缺失*** 
-   
-   Cathode_Copper ***2009-12 数据缺失*** 
-   
-   Fuel_Oil ***2009-12 ~ 2011-02 数据缺失*** 
-   
-   Gold ***2009-12 数据缺失*** 
-   
-   LLDPE ***2009-12 数据缺失*** 
-   
-   Natural_Rubber ***2009-12 数据缺失*** 
-   
-   Palm_Oil ***2009-12 数据缺失*** 
-   
-   PVC ***2009-12 数据缺失*** 
-   
-   Rebar ***2009-12 数据缺失*** 
-   
-   Soybean_Meal ***2009-12 数据缺失*** 
-   
-   Soybean_Oil ***2009-12 数据缺失*** 
-   
-   Soybeans_No_1 ***2009-12 数据缺失*** 
-   
-   Soybeans_No_2 ***2009-12 数据缺失*** 
-   
-   Wire_Rod ***2009-12 ~ 2011-01 数据缺失*** 
-   
-   Yellow_Corn ***2009-12 数据缺失*** 
-   
-   Zinc ***2009-12 数据缺失*** 
 
 4. Real estate returns are calculated based on the housing price index in the first-tier cities, second-tier cities and third-tier cities, which are released by the China Index Academy. Sample period: 06.2011 - 03.2014.
 
@@ -95,6 +61,20 @@ Deadline: *2022-12-19*
 7. Industry Stocks: the closing price of Hushen 300 industry Index at the end of each month to calculate the one-year holding period yield, the included industries are energy, raw materials, industry, optional consumption, the main consumption, medicine and health care, finance and real estate, information technology, the utility and the telecommunication service, sample period: 01.2010 - 03.2014.
 
 
+### Data Storage and Update 
+
+The volumn if the data used in this research, no matter raw data or processed data, is small so that it could be uploaded to and managed through Github without any other database management systems. 
+
+
+## Report and Presentation 
+
+### Report 
+
+https://www.overleaf.com/3836995434zxtrdbgbrjnn 
+
+### Presentation 
+
+https://www.overleaf.com/3333274171cdqtbpxbjgyp 
 
 
 ## To Do List based on Requirements and Literature 
